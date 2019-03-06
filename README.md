@@ -2,6 +2,12 @@
 
 ## Requirements
 
+## Data
+
+Located at:
+
+https://drive.google.com/file/d/1jrJFtXceJRsG6ae7Ojt3RUnt985jqyqG/view?usp=sharing
+
 ## Running the Docker Image
 The docker images for this case study are located on dockerhub. Running the commands below will automatically download and start a jupyter notebook.
 
